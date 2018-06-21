@@ -26,7 +26,7 @@ const styles = theme => ({
     textAlign: 'center'
   },
   spinner: {
-    padding: theme.spacing.unit * 3,
+    padding: theme.spacing.unit * 4,
     textAlign: 'center',
     color: theme.palette.text.secondary
   },
